@@ -10,8 +10,4 @@ Scala 培训内容，内容从了解 Scala 到使用 Scala 写一个简单的应
 
 # Table of Content
 
-* [Why Scala]()
-* [Scala Types]()
-* [Scala Variable]()
-* [Scala Collections]()
-* ...
+* [Chapter 1](chapter1/base-knowledge.md)
